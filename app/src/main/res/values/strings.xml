@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="heading">Welcome to Tic Tac Toe</string>
+    <string name="grid">main grid</string>
+    <string name="label">X\'s turn , tap to play . . .</string>
+    <string name="dialog">Game has ended . \nDo you want to reset it</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+</resources>
